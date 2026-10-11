@@ -63,4 +63,4 @@ projeto-thermo/
 
 ## Licença
 
-Este projeto está distribuído sob a licença MIT. Consulte o arquivo [GUILHERME MESQUITA](GUILHERME MESQUITA) para o texto completo.
+Este projeto está distribuído sob a licença MIT. Consulte o arquivo [LICENSE](LICENSE) para o texto completo.
